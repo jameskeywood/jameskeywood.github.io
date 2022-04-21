@@ -1,0 +1,22 @@
+h1{
+	color: white;
+	background-color: grey;
+	font-family: calibri light;
+}
+
+div {
+  padding: 25px 50px 75px 100px;
+}
+
+.intro{
+	color: white;
+	background-color: grey;
+	font-family: calibri;
+	font-size: 25px;
+}
+
+.main{
+	color: grey;
+	font-family: calibri;
+	font-size: 15px;
+}
