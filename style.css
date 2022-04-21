@@ -4,15 +4,13 @@ h1{
 	font-family: calibri light;
 }
 
-div {
-  padding: 25px 50px 75px 100px;
-}
-
 .intro{
 	color: white;
 	background-color: grey;
 	font-family: calibri;
 	font-size: 25px;
+	width: 300px;
+	padding: 25px;
 }
 
 .main{
