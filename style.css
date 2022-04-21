@@ -3,22 +3,23 @@ h1{
 	background-color: lightblue;
 	border: 1px solid black;
 	font-family: calibri light;
-	width: 300px;
+	width: 1000px;
 	padding: 10px;
 }
 
 .intro{
 	color: black;
-	background-color: lightblue;
-	border: 1px solid black;
 	font-family: calibri;
 	font-size: 25px;
-	width: 400px;
-	padding: 10px;
 }
 
 .main{
 	color: black;
 	font-family: calibri;
 	font-size: 15px;
+}
+
+#project{
+	width: 400px;
+	padding: 10px;
 }
