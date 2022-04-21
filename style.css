@@ -1,5 +1,5 @@
 h1{
-	color: white;
+	color: black;
 	background-color: lightblue;
 	border: 1px solid black;
 	font-family: calibri light;
@@ -8,7 +8,7 @@ h1{
 }
 
 .intro{
-	color: white;
+	color: black;
 	background-color: lightblue;
 	border: 1px solid black;
 	font-family: calibri;
@@ -18,7 +18,7 @@ h1{
 }
 
 .main{
-	color: grey;
+	color: black;
 	font-family: calibri;
 	font-size: 15px;
 }
