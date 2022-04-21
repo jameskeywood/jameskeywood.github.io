@@ -4,7 +4,7 @@ h1{
 	border: 1px solid black;
 	font-family: calibri light;
 	width: 300px;
-	padding: 25px;
+	padding: 10px;
 }
 
 .intro{
@@ -14,7 +14,7 @@ h1{
 	font-family: calibri;
 	font-size: 25px;
 	width: 400px;
-	padding: 25px;
+	padding: 10px;
 }
 
 .main{
