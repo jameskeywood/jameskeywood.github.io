@@ -20,6 +20,8 @@ h1{
 }
 
 #project{
+	background-color: lightblue;
+	border: 1px solid black;
 	width: 400px;
 	padding: 10px;
 }
