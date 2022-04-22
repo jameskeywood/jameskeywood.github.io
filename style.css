@@ -4,10 +4,8 @@ body {
 
 h1{
 	color: black;
-	background-color: lightblue;
 	border: 1px solid black;
 	font-family: calibri light;
-	width: 1000px;
 	padding: 10px;
 }
 
@@ -24,7 +22,6 @@ h1{
 }
 
 #project{
-	background-color: lightblue;
 	border: 1px solid black;
 	width: 300px;
 	padding: 10px;
