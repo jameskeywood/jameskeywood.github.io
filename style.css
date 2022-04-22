@@ -6,25 +6,30 @@ h1{
 	color: black;
 	border: 1px solid black;
 	font-family: calibri light;
-	padding: 10px;
+	padding: 12px;
 }
 
-.intro{
+p{
 	color: black;
 	font-family: calibri;
-	font-size: 25px;
+	font-size: 24px;
+	text-align: center;
 }
 
-.main{
+.button {
 	color: black;
-	font-family: calibri;
-	font-size: 40px;
-}
-
-#project{
-	display: block;
-	margin: auto;
+	background-color: transparent;
 	border: 1px solid black;
-	width: 300px;
 	padding: 10px;
+	text-align: center;
+	display: block;
+	font-size: 24px;
+	margin: auto;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: black;
+	color: white;
 }
