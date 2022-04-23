@@ -25,11 +25,12 @@ p{
 	display: block;
 	font-size: 24px;
 	margin: auto;
-	transition-duration: 0.4s;
+	transition-duration: 0.2s;
 	cursor: pointer;
 }
 
 .button:hover {
-	background-color: black;
-	color: white;
+	background-color: transparent;
+	border: 1px solid black;
+	box-shadow: 2px 2px;
 }
