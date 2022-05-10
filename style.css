@@ -9,28 +9,37 @@ h1{
 	padding: 12px;
 }
 
-p{
+div {
 	color: black;
 	font-family: calibri;
 	font-size: 24px;
-	text-align: center;
 }
 
-.button {
-	color: black;
-	background-color: transparent;
+.nav {
+	width: 160px; 
+	height: 100%;
+	position: fixed;
+	text-align: left;
 	border: 1px solid black;
-	padding: 10px;
-	text-align: center;
-	display: block;
-	font-size: 24px;
-	margin: auto;
-	transition-duration: 0.2s;
-	cursor: pointer;
+	padding: 12px;
+	width: 100px;
 }
 
-.button:hover {
+.nav a {
+	display: block;
+	text-decoration: none;
+	color: inherit;
+	margin-bottom: 10px;
+
+}
+
+.nav a:hover {
 	background-color: transparent;
 	border: 1px solid black;
 	box-shadow: 2px 2px;
+}
+
+.main {
+  margin-left: 160px;
+  padding: 12px;
 }
