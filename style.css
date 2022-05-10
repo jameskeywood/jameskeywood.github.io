@@ -7,27 +7,29 @@ body {
 	background-repeat: no-repeat;
 }
 
-h1{
-	color: black;
-	border: 1px solid black;
-	font-family: calibri light;
-	padding: 12px;
+hr {
+	border-top: 1px solid black;
 }
 
-div {
+.header {
 	color: black;
-	font-family: calibri;
-	font-size: 24px;
+	font-family: sans-serif;
+}
+
+.header a {
+	text-decoration: none;
+	color: #17a;
 }
 
 .nav {
-	width: 160px; 
+	width: 100px; 
 	height: 100%;
 	position: fixed;
 	text-align: left;
-	border: 1px solid black;
-	padding: 12px;
-	width: 100px;
+	border-right: 1px solid black;
+	color: black;
+	font-family: sans-serif;
+	font-size: 24px;
 }
 
 .nav a {
@@ -38,13 +40,13 @@ div {
 
 }
 
-.nav a:hover {
-	background-color: transparent;
-	border: 1px solid black;
-	box-shadow: 2px 2px;
+.nav a:hover, .header a:hover {
+	opacity: 0.5;
 }
 
 .main {
-  margin-left: 160px;
-  padding: 12px;
+	margin-left: 115px;
+	color: black;
+	font-family: sans-serif;
+	font-size: 24px;
 }
