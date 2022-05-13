@@ -3,8 +3,11 @@ html {
 }
 
 body {
-	background-image: linear-gradient(lightblue, white);
+	background-image: url("background.jpg");
 	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	mask-image: linear-gradient(to bottom, transparent 10%, black);
 }
 
 hr {
