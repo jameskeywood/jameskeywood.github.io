@@ -48,7 +48,7 @@ p a {
 	margin-bottom: 10px;
 }
 
-.nav a:hover, .header a:hover , a img:hover{
+.nav a:hover, .header a:hover , a img:hover, p a:hover{
 	opacity: 0.5;
 }
 
