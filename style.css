@@ -11,12 +11,8 @@ hr {
 	border-top: 1px solid black;
 }
 
-button {
+img {
 	border: 1px solid black;
-	background-image: url('/gg.png');
-  background-size: cover;
-	width: 300px;
-	height: 150px;
 }
 
 .header {
@@ -48,7 +44,7 @@ button {
 
 }
 
-.nav a:hover, .header a:hover , button:hover{
+.nav a:hover, .header a:hover , img:hover{
 	opacity: 0.5;
 }
 
