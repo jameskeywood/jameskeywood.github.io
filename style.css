@@ -15,6 +15,11 @@ a img {
 	border: 1px solid black;
 }
 
+p a {
+	text-decoration: none;
+	color: #17a;
+}
+
 .header {
 	color: black;
 	font-family: sans-serif;
@@ -41,7 +46,6 @@ a img {
 	text-decoration: none;
 	color: inherit;
 	margin-bottom: 10px;
-
 }
 
 .nav a:hover, .header a:hover , a img:hover{
