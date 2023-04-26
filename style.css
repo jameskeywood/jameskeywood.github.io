@@ -11,7 +11,7 @@ hr {
 	border-top: 1px solid black;
 }
 
-img {
+img a {
 	border: 1px solid black;
 }
 
@@ -44,7 +44,7 @@ img {
 
 }
 
-.nav a:hover, .header a:hover , img:hover{
+.nav a:hover, .header a:hover , img a:hover{
 	opacity: 0.5;
 }
 
