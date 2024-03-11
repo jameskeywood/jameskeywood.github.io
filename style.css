@@ -11,6 +11,7 @@ hr {
 }
 
 .header {
+	position: fixed;
 	color: black;
 	font-family: sans-serif;
 	height: 10%;
@@ -26,6 +27,7 @@ hr {
 	height: 90%;
 	text-align: left;
 	border-right: 1px solid black;
+	position: fixed;
 	color: black;
 	font-family: sans-serif;
 	font-size: 24px;
