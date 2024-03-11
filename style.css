@@ -23,7 +23,6 @@ hr {
 .nav {
 	width: 100px; 
 	height: 100%;
-	position: fixed;
 	text-align: left;
 	border-right: 1px solid black;
 	color: black;
