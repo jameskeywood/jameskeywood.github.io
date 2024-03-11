@@ -10,17 +10,12 @@ hr {
 	border-top: 1px solid black;
 }
 
-p a {
-	text-decoration: none;
-	color: #17a;
-}
-
 .header {
 	color: black;
 	font-family: sans-serif;
 }
 
-.header a {
+.header a, p a {
 	text-decoration: none;
 	color: #17a;
 }
@@ -43,7 +38,7 @@ p a {
 	margin-bottom: 10px;
 }
 
-.nav a:hover, .header a:hover , a img:hover, p a:hover{
+.nav a:hover, .header a:hover, p a:hover{
 	opacity: 0.5;
 }
 
