@@ -6,6 +6,10 @@
 	<meta name="viewport" content="width=device-width">
 	<title>James Keywood</title>
 	<link href="/style.css" rel="stylesheet" type="text/css" />
+
+	<script src="https://unpkg.com/pdfobject"></script>
+	<script>PDFObject.embed("cv.pdf", "#cv");</script>
+
 </head>
 
 <body>
@@ -29,7 +33,8 @@
 			Welcome to my portfolio. Hope you enjoy my projects.
 		</p>
 
-		<embed src="cv.pdf" width="595" height="842" frameborder="0" type="application/pdf">
+		<div id="cv"></div>
+
 	</div>
 		
 </body>
