@@ -15,7 +15,7 @@ hr {
 	font-family: sans-serif;
 }
 
-.header a, p a {
+.header a, .main a {
 	text-decoration: none;
 	color: #17a;
 }
@@ -38,7 +38,7 @@ hr {
 	margin-bottom: 10px;
 }
 
-.nav a:hover, .header a:hover, p a:hover{
+.nav a:hover, .header a:hover, .main a:hover{
 	opacity: 0.5;
 }
 
