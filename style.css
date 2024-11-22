@@ -36,7 +36,7 @@ body {
 	margin-bottom: 10px;
 }
 
-.nav a:hover, .header a:hover, .main a:hover{
+a:hover {
 	opacity: 0.5;
 }
 
