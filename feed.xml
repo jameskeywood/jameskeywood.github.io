@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+  		<title>James Keywood</title>
+		<link>https://jameskeywood.github.io/index.html</link>
+  		<description>Personal portfolio</description>
+  		<language>en-us</language>
+  		<atom:link href="https://jameskeywood.github.io/feed.xml" rel="self" type="application/rss+xml" />
+
+  		<item>
+    		<title>Test entry</title>
+			<link>https://jameskeywood.github.io/blog/test/index.html</link>
+    		<pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+    		<description>Test description</description>
+  		</item>
+
+	</channel>
+</rss>
