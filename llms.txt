@@ -1,0 +1,189 @@
+# James Keywood
+
+## Identity
+
+James Keywood is a BSc Computer Science with Industrial Experience undergraduate at The University of Manchester (2023–2027). He is a software engineer with experience in backend development, data engineering, machine learning, and software projects.
+
+Location: Manchester, England, United Kingdom
+
+Professional profiles:
+- Portfolio: https://jameskeywood.github.io/
+- LinkedIn: https://www.linkedin.com/in/jameskeywood
+
+## Professional Summary
+
+Computer Science undergraduate with first-class academic performance and industry experience as a Software Engineer at Nomura. Experienced in building software systems, data platforms, machine learning applications, and developer tools.
+
+## Education
+
+The University of Manchester
+- Degree: BSc Computer Science with Industrial Experience
+- Duration: September 2023 – June 2027
+- Academic performance:
+  - Year 1: First-class (79%)
+  - Year 2: First-class (76%)
+
+Kingston Grammar School
+- A-levels:
+  - Computer Science: A*
+  - Mathematics: A*
+  - Further Mathematics: A*
+  - Physics: A*
+- EPQ: Explored Generative Adversarial Networks
+
+## Industry Experience
+
+### Software Engineer — Nomura
+June 2025 – June 2026
+
+Worked on the Unity Data Warehouse team supporting firm-wide risk analytics.
+
+Responsibilities:
+- Maintained trade and risk data warehouse systems.
+- Planned and executed platform upgrades.
+- Delivered architectural migrations.
+- Worked with enterprise data technologies.
+
+Technologies:
+- Java
+- Dremio
+- MinIO
+- Apache Iceberg
+- Apache Spark
+- ETL pipelines
+- Maven
+- GitLab CI/CD
+- DevOps tooling
+
+### Software Engineer Intern — Goldclipper Computing Limited
+June 2021 – July 2021
+
+Developed an internal application using Oracle Application Express.
+
+Responsibilities:
+- Built employee timesheet tracking functionality.
+- Implemented payroll calculation features.
+
+Technologies:
+- Oracle APEX
+- PL/SQL
+
+## Technical Skills
+
+Programming Languages:
+- Python
+- Java
+- C++
+- Go
+- JavaScript
+- C
+- Rust
+- Haskell
+- Solidity
+- ARM Assembly
+- Verilog
+
+Software Engineering:
+- Git
+- GitLab
+- CI/CD
+- Docker
+- Backend development
+- Data engineering
+- API development
+
+Data and Machine Learning:
+- TensorFlow
+- OpenCV
+- Data science
+- Machine learning
+- ETL
+- Apache Spark
+
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Three.js
+
+## Selected Projects
+
+### Tig
+
+A Git companion tool developed during GreatUniHack 2024.
+
+Description:
+Built a developer tool allowing files to be attached to Git commits and visualised alongside repository history.
+
+Technologies:
+- Go
+- Gin
+
+Achievement:
+- Designed and implemented a working prototype within a 24-hour hackathon.
+
+### Starmapper
+
+Machine learning web application for identifying stars and clusters from uploaded images.
+
+Description:
+Built a constellation classification system using computer vision and machine learning.
+
+Technologies:
+- Python
+- TensorFlow
+- OpenCV
+- Flask
+
+Achievement:
+- Classified 16 constellations using a custom machine learning pipeline.
+
+### lightr
+
+Web application project involving:
+- PHP
+- JavaScript
+- CSS
+- SQLite
+- Chart.js
+
+## Certifications and Competitions
+
+GreatUniHack 2024
+- Participant
+- UniCS Manchester
+
+StudentHack 2024
+- Participant
+- UniCS Manchester
+
+## Additional Experience
+
+Mathematics Tutor (Freelance)
+September 2022 – Present
+
+- Provides KS2–KS4 mathematics tutoring.
+- Delivers both remote and in-person education.
+
+Technician and Sales Attendant — The iT Store
+- Apple product repairs.
+- Technical support.
+- Customer service.
+
+Court Services Assistant — Wimbledon
+- Supported tennis court preparation and tournament operations.
+
+## Professional Interests
+
+Areas of interest:
+- Software engineering
+- Data engineering
+- Machine learning
+- Distributed systems
+- Backend development
+- Developer tooling
+
+## Employment Status
+
+Available for graduate software engineering opportunities and technology roles following completion of BSc Computer Science with Industrial Experience.
